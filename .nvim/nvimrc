@@ -27,4 +27,3 @@ set expandtab
 set backspace=start,eol
 
 """ Plugin Settings -------------------------
-let b:highlightedyank_higlight_duration = 50
