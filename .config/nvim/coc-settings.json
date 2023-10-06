@@ -1,0 +1,17 @@
+   "languageserver": {                                                                                            
+         "elmLS": {                                                                                                 
+             "command": "elm-language-server",                                                                      
+             "filetypes": ["elm"],                                                                                  
+             "rootPatterns": ["elm.json"]                                                                           
+         },                                                                                                         
+         "graphql": {                                                                                               
+             "command": "graphql-lsp",                                                                              
+             "args": ["server", "-m", "stream"],                                                                    
+             "filetypes": ["typescript", "typescriptreact", "graphql"]                                              
+        },                                                                                                         
+        "elixirLS": {                                                                                              
+            "command": "/absolute/path/to/elixir-ls/release/language_server.sh",                                   
+            "filetypes": ["elixir", "eelixir"]                                                                     
+        }                                                                                                          
+    },                                                                                                             
+    "codeLens.enable": true 
