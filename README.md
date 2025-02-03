@@ -6,6 +6,9 @@
 - [ ] Redirector
 ### Dev
 - [ ] React Developer Tools
+- [ ] Vue.js devtools
+- [ ] Vue Telescope
+- [ ] CSS Stacking Context inspector
 - [ ] cookies.txt
 - [ ] URL to QR code
 ### Saving Content
