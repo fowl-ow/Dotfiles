@@ -5,10 +5,11 @@
 - [x] Wikiwand
 - [ ] Redirector
 ### Dev
+- [x] Tota11y: Accessibility visualization toolkit
+- [ ] CSS Stacking Context inspector
 - [ ] React Developer Tools
 - [ ] Vue.js devtools
 - [ ] Vue Telescope
-- [ ] CSS Stacking Context inspector
 - [ ] cookies.txt
 - [ ] URL to QR code
 ### Saving Content
