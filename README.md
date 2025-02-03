@@ -1,13 +1,13 @@
 # Dotfiles
 ## Browser Addons
 ### Visual / QoL
-- [ ] Dark Reader #tag
+- [ ] Dark Reader
 - [ ] Wikiwand
 - [ ] Redirector
 ### Dev
 - [ ] React Developer Tools
 - [ ] cookies.txt
-- [ ] URL to QR code #tag
+- [ ] URL to QR code
 ### Saving Content
 - [ ] Zotero Connector
 - [ ] MarkDownload - Markdown Web Clipper
