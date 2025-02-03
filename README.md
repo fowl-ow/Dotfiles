@@ -1,8 +1,8 @@
 # Dotfiles
 ## Browser Addons
 ### Visual / QoL
-- [ ] Dark Reader
-- [ ] Wikiwand
+- [x] Dark Reader
+- [x] Wikiwand
 - [ ] Redirector
 ### Dev
 - [ ] React Developer Tools
@@ -14,16 +14,16 @@
 - [ ] Video DownloadHelper
 
 ### Privacy & Security
-- [ ] Bitwarden
-- [ ] uBlock Origin
-- [ ] Privacy Badger
-- [ ] DuckDuckGo Privacy Essentials
-- [ ] Firefox Multi-Account Containers
+- [x] Bitwarden
+- [x] uBlock Origin
+- [x] Privacy Badger
+- [x] DuckDuckGo Privacy Essentials
+- [x] Port Authority
 - [ ] ClearURLs
+- [ ] Firefox Multi-Account Containers
 - [ ] LeechBlock NG
-- [ ] Port Authority
 ### Social Media
-- [ ] SponsorBlock (YouTube)
-- [ ] Enhancer for YouTube
-- [ ] Return YouTube Dislike
+- [x] SponsorBlock (YouTube)
+- [x] Enhancer for YouTube
+- [x] Return YouTube Dislike
 - [ ] BetterTTV
