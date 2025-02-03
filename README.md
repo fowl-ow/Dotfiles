@@ -5,13 +5,17 @@
 - [x] Wikiwand
 - [ ] Redirector
 ### Dev
-- [x] Tota11y: Accessibility visualization toolkit
+
 - [ ] CSS Stacking Context inspector
 - [ ] React Developer Tools
 - [ ] Vue.js devtools
 - [ ] Vue Telescope
 - [ ] cookies.txt
 - [ ] URL to QR code
+
+### Accessibility
+- [ ] Tota11y: Accessibility visualization toolkit
+- [ ] WAVE Accessibility Extension 
 ### Saving Content
 - [ ] Zotero Connector
 - [ ] MarkDownload - Markdown Web Clipper
