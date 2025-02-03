@@ -16,4 +16,4 @@
 ### Social Media
 - [ ] SponsorBlock (YouTube)
 - [ ] Enhancer for YouTube
-- [] BetterTTV
+- [ ] BetterTTV
