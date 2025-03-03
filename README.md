@@ -5,6 +5,7 @@
   - [x] [Z](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/z)
 - [x] [PowerLevel10k](https://github.com/romkatv/powerlevel10k) 
 - [x] [asdf](https://asdf-vm.com/guide/getting-started.html) - Tool Version Manager
+  - [x] NeoVim 0.9.5 - Due to Copilot bug in VSCode
 ## Browser Addons
 ### Visual / QoL
 - [x] Dark Reader
