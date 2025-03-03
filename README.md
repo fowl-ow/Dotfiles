@@ -1,4 +1,10 @@
 # Dotfiles
+## CLI
+- [x] [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+  - [x] [Git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+  - [x] [Z](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/z)
+- [x] [PowerLevel10k](https://github.com/romkatv/powerlevel10k) 
+- [x] Tool Version Manager - [asdf](https://asdf-vm.com/guide/getting-started.html)
 ## Browser Addons
 ### Visual / QoL
 - [x] Dark Reader
