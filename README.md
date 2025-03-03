@@ -4,7 +4,7 @@
   - [x] [Git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
   - [x] [Z](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/z)
 - [x] [PowerLevel10k](https://github.com/romkatv/powerlevel10k) 
-- [x] Tool Version Manager - [asdf](https://asdf-vm.com/guide/getting-started.html)
+- [x] [asdf](https://asdf-vm.com/guide/getting-started.html) - Tool Version Manager
 ## Browser Addons
 ### Visual / QoL
 - [x] Dark Reader
