@@ -12,7 +12,6 @@
 - [x] Wikiwand
 - [ ] Redirector
 ### Dev
-
 - [ ] CSS Stacking Context inspector
 - [ ] React Developer Tools
 - [ ] Vue.js devtools
@@ -24,6 +23,7 @@
 - [ ] Tota11y: Accessibility visualization toolkit
 - [ ] WAVE Accessibility Extension 
 ### Saving Content
+- [x] [Raindrop](https://raindrop.io/)
 - [ ] Zotero Connector
 - [ ] MarkDownload - Markdown Web Clipper
 - [ ] Video DownloadHelper
